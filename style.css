@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+main{
+  width:600px;
+  height:600px;
+  border: solid black;
+}
+
+.bloco{
+    position: relative;
+    height: 60px;
+    width: 60px;
+  background-color:red;
+}
